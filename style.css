@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/*
+Theme Name: Solartec
+Theme URI: https://rstsoftbd.com
+Author: the WordPress team
+Author URI: https://rstsoftbd.com
+Description: Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes.
+Requires at least: 4.9.6
+Requires PHP: 5.2.4
+Version: 1.7
+
+*/
+
+.navbar-nav {
+  list-style: none;
+  margin-left:263px;
+}
+
+.wpcf7-form-control.has-spinner.wpcf7-submit.btn.btn-primary.py-2.position-absolute.top-0.end-0.mt-2.me-2 {
+  margin: 6px 7px 0 0 !important;
+}
+
+.breadcrumb {
+  color: #fff !important;
+}
+
+.text-white-home{
+  color: #fff !important;
+}
+
+.breadcrumb.breadcrumb-item .text-white-home a{
+  color: #fff !important;
+}
+
+
+
